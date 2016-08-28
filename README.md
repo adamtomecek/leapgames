@@ -4,6 +4,8 @@ For my bachelor's thesis (in czech language) I designed simple device for playin
 
 Work included simple calibration application and few game prototypes using Unity game engine.
 
+[Short video](https://www.youtube.com/watch?v=hidy8ezzWyU)
+
 [Thesis page](http://www.fit.vutbr.cz/study/DP/BP.php?id=17327)
 
 ## Images
